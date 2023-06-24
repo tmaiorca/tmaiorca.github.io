@@ -1,8 +1,8 @@
 ---
 title: Hello Homelab
 date: 2022-11-03 22:00:00
-categories: [homelab,posts]
-tags: [servers,dell,hp,supermicro] #TAG names should always be lowercase
+categories: [Homelab]
+tags: [servers,homelab] #TAG names should always be lowercase
 ---
 
 # Welcome
